@@ -3,8 +3,7 @@
   <a href=""><b>后台</b></a>｜
   <a href=""><b>接口</b></a>
 </p>
-
-![image-20260424184326785](/Users/leon/Library/Application Support/typora-user-images/image-20260424184326785.png)
+<img src='./image-20260424184326785.png'>
 
 
 <p align="center">
