@@ -3,7 +3,9 @@
   <a href=""><b>后台</b></a>｜
   <a href=""><b>接口</b></a>
 </p>
+<p align="center">
 <img src='./image-20260424184326785.png'>
+</p>
 
 
 <p align="center">
