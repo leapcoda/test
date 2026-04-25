@@ -3,13 +3,12 @@
   <a href=""><b>后台</b></a>｜
   <a href=""><b>接口</b></a>
 </p>
-<p align="center">
-<img src='./image-20260424232047538.png'>
-</p>
-<p align="center">
-<img src='./image-20260424184326785.png'>
-</p>
 
+<p align="center">
+  <img src="./logo.png" height="56">
+  <img src="./logo.png" height="48">
+  <img src="./logo.png" height="40">
+</p>
 
 <p align="center">
 <img src='https://img.shields.io/badge/Node-v24.8.0-5FA04E'>
@@ -37,17 +36,3 @@ Sphere 是一个高度还原得物 App 的电商项目，使用 `Vue3`、`Spring
 ### 开源协议
 
 Designed by Leapcoda
-
-![image-20260423221119117](/Users/leon/Library/Application Support/typora-user-images/image-20260423221119117.png)
-
-
-
-
-
-![image-20260423222548118](/Users/leon/Library/Application Support/typora-user-images/image-20260423222548118.png)
-
-![cedea1c4-36af-5612-4243-8cb59a8d7f24-169-101](/Users/leon/Desktop/cedea1c4-36af-5612-4243-8cb59a8d7f24-169-101.png)
-
-![image-20260424001515836](/Users/leon/Library/Application Support/typora-user-images/image-20260424001515836.png)
-
-![image-20260424184302211](/Users/leon/Library/Application Support/typora-user-images/image-20260424184302211.png)
