@@ -3,16 +3,10 @@
   <a href=""><b>后台</b></a>｜
   <a href=""><b>接口</b></a>
 </p>
-<p align="center">
-  <img src="./image-20260425183703492.png">
-</p>
 
 <p align="center">
-  <img src="./image-20260425183723777.png">
+  <img src="./sphere.png">
 </p>
-
-
-
 
 <p align="center">
 <img src='https://img.shields.io/badge/Node-v24.8.0-5FA04E'>
