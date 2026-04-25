@@ -5,8 +5,15 @@
 </p>
 
 <p align="center">
+  <img src="./sphere.png" height="96">
+</p>
+<p align="center">
   <img src="./sphere.png" height="80">
 </p>
+<p align="center">
+  <img src="./sphere.png" height="64">
+</p>
+
 
 <p align="center">
 <img src='https://img.shields.io/badge/Node-v24.8.0-5FA04E'>
