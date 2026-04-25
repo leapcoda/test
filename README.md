@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="./sphere.png" width="240">
+  <img src="./sphere.png" height="48">
 </p>
 
 <p align="center">
