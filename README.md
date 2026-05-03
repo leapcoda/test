@@ -7,7 +7,7 @@
 <h1>Sphere</h1>
 
 <p align="center">
-  <img src="./sphere.png" width="180">
+  <img src="./sphere.png" width="200">
 </p>
 
 <p align="center">
