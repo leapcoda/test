@@ -5,15 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="./sphere.png" height="96">
+  <img src="./sphere.png" width="240">
 </p>
-<p align="center">
-  <img src="./sphere.png" height="80">
-</p>
-<p align="center">
-  <img src="./sphere.png" height="64">
-</p>
-
 
 <p align="center">
 <img src='https://img.shields.io/badge/Node-v24.8.0-5FA04E'>
@@ -28,17 +21,16 @@
 </p>
 
 
-
-### 简介
+## 简介
 Sphere 是一个高度还原得物 App 的电商项目，使用 `Vue3`、`SpringBoot3` 开发，旨在探索购物 + 聊天结合场景下的最佳实践，持续更新中...
 
 
-### 声明
+## 声明
 >Sphere 仅用于学习交流，不涉及商业用途
 
 
 
-### 开源协议
+## 开源协议
 
 Designed by Leapcoda
 
