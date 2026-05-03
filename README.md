@@ -4,8 +4,6 @@
   <a href=""><b>接口</b></a>
 </p>
 
-<h1>Sphere</h1>
-
 <p align="center">
   <img src="./sphere.png" width="300">
 </p>
