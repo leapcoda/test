@@ -1,3 +1,4 @@
+<h1 style="display: none;">Sphere</h1>
 <p align="right">
   <b>前台</b>｜
   <a href=""><b>后台</b></a>｜
