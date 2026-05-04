@@ -1,4 +1,4 @@
-<h1 style="display: none;">Sphere</h1>
+
 <p align="right">
   <b>前台</b>｜
   <a href=""><b>后台</b></a>｜
@@ -21,7 +21,7 @@
   📃 <a href=""><b>使用文档</b></a>
 </p>
 
-
+# Sphere Project
 ## 简介
 Sphere 是一个高度还原得物 App 的电商项目，使用 `Vue3`、`SpringBoot3` 开发，旨在探索购物 + 聊天结合场景下的最佳实践，持续更新中...
 
