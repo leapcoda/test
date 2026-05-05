@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-    <img src="./docs/images/86868b.png" alt="sphere" width="300">
-    <img src="./docs/images/d2d2d7.png" alt="sphere" width="300">
-    <img src="./docs/images/86868b-d.png" alt="sphere" width="300">
-    <img src="./docs/images/424245.png" alt="sphere" width="300">
+    <img src="./86868b.png" alt="sphere" width="300">
+    <img src="./d2d2d7.png" alt="sphere" width="300">
+    <img src="./86868b-d.png" alt="sphere" width="300">
+    <img src="./424245.png" alt="sphere" width="300">
 </p>
 
 <p align="center">
