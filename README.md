@@ -1,8 +1,8 @@
 
 <p align="right">
-  <a href="#"><b>APP</b></a>｜
-  <a href="https://github.com/leapcoda/sphere-ops"><b>OPS</b></a>｜
-  <a href="https://github.com/leapcoda/sphere"><b>API</b></a>
+  <a href="#"><b>App</b></a>｜
+  <a href="https://github.com/leapcoda/sphere-ops"><b>Ops</b></a>｜
+  <a href="https://github.com/leapcoda/sphere"><b>Api</b></a>
 </p>
 
 <p align="center">
