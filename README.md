@@ -48,6 +48,11 @@ npm i
 # 启动项目
 npm run dev
 ```
+> 开发环境下默认启用Mock数据，如需请求真实API请关闭配置
+
+```env
+VITE_ENABLE_MOCK = false
+```
 
 ## 构建
 
