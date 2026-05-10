@@ -65,4 +65,4 @@ npm run build
 
 ## 开源协议
 
-[MIT License](./LICENSE)
+Sphere 遵循 [MIT](./LICENSE) 协议
