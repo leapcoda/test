@@ -1,6 +1,6 @@
 
 <p align="right">
-  <a href="#"><b>APP</b></a>｜
+  <b>APP</b>｜
   <a href="https://github.com/leapcoda/sphere-ops"><b>OPS</b></a>｜
   <a href="https://github.com/leapcoda/sphere"><b>API</b></a>
 </p>
