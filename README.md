@@ -14,34 +14,56 @@
 </p>
 
 <p align="center">
-<img src='https://img.shields.io/badge/Node-v24.8.0-5FA04E'>
-<img src='https://img.shields.io/badge/Vite-v8.0.0-9135FF'>
-<img src='https://img.shields.io/badge/Release-v0.1.0-181717'>
-<img src='https://img.shields.io/badge/License-Apache%202.0-D22128'>
+  <a href="https://github.com/leapcoda/test/actions/workflows/ci.yml">
+    <!-- <img src="https://github.com/leapcoda/sphere-app/actions/workflows/ci.yml/badge.svg" alt="build status"> -->
+    <img src="https://github.com/vitejs/vite/actions/workflows/ci.yml/badge.svg?branch=main" alt="build status">
+  </a>
+  <a href="https://nodejs.org/">
+    <img src="https://img.shields.io/badge/Node-v24+-5FA04E?logo=nodedotjs" alt="node version">
+  </a>
+  <a href="https://github.com/leapcoda/sphere-app/releases">
+    <!-- <img src="https://img.shields.io/github/v/release/leapcoda/sphere-app?label=Release&color=01c2c3" alt="release"> -->
+    <img src="https://img.shields.io/github/v/release/tencent/tdesign-vue-next-starter?label=Release&color=01c2c3" alt="release">
+  </a>
+  <a href="https://github.com/leapcoda/sphere-app/blob/main/LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-blue" alt="license">
+  </a>
 </p>
 
 <p align="center">
-  💻 <a href=""><b>实时预览</b></a>｜
-  📃 <a href=""><b>使用文档</b></a>
+  💻 <a href="https://app.leapcoda.com/"><b>实时预览</b></a>｜
+  📃 <a href="https://doc.leapcoda.com/"><b>使用文档</b></a>
 </p>
 
-# Sphere Project
-## 简介
-Sphere 是一个高度还原得物 App 的电商项目，使用 `Vue3`、`SpringBoot3` 开发，旨在探索购物 + 聊天结合场景下的最佳实践，持续更新中...
+## 介绍
 
+Sphere 是一个社区化的电商平台，该仓库（sphere-app）是用户端项目，使用 `Vue3`、`TDesign` 开发，旨在探索购物 + 分享场景下的最佳实践，持续更新中...
+
+## 开发
+
+```bash
+# 安装依赖
+npm i
+
+# 启动项目
+npm run dev
+```
+
+## 构建
+
+```bash
+# 打包项目
+npm run build
+```
 
 ## 免责声明
 
 本项目是以得物 App 为原型的复刻项目，仅用于学习交流，不涉及商业用途。使用或分发本项目前，请阅读以下声明：
 
 - 本项目的 UI / UX 设计系对原应用的还原，与原应用及其所属公司无任何授权关系
-- 本项目部分视觉素材（包括但不限于图标、字体、插画、背景、商品图）来源于原应用，版权均归相关权利人所有的
+- 本项目部分视觉素材（包括但不限于图标、字体、插画、背景等）来源于原应用，版权均归相关权利人所有
 - 任何个人或组织因违法使用本项目所产生的版权纠纷或法律责任，均由相关行为人自行承担
-
-
-
 
 ## 开源协议
 
 [MIT License](./LICENSE)
-
