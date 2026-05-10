@@ -1,8 +1,8 @@
 
 <p align="right">
-  <a href="#"><b>App</b></a>｜
-  <a href="https://github.com/leapcoda/sphere-ops"><b>Ops</b></a>｜
-  <a href="https://github.com/leapcoda/sphere"><b>Api</b></a>
+  <a href="#"><b>APP</b></a>｜
+  <a href="https://github.com/leapcoda/sphere-ops"><b>OPS</b></a>｜
+  <a href="https://github.com/leapcoda/sphere"><b>API</b></a>
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@
 
 ## 介绍
 
-Sphere 是一个社区化的电商平台，该仓库（sphere-app）是用户端项目，使用 `Vue3`、`TDesign` 开发，旨在探索购物 + 分享场景下的最佳实践，持续更新中...
+Sphere 是一个社区化的电商平台，该仓库（sphere-app）是用户端项目，使用 `Vue3`、`TDesign` 开发，旨在探索购物 + 互动场景下的最佳实践，持续更新中...
 
 ## 开发
 
