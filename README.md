@@ -37,7 +37,7 @@
 
 ## 介绍
 
-Sphere 是一个社区化的电商项目，**sphere-app** 是其用户端，使用 `Vue 3`、`VueRouter`、`Pinia`、`TDesign` 开发，旨在探索购物 + 互动场景下的最佳实践，持续更新中...
+Sphere 是一个社区化的电商项目，该仓库（sphere-app）是其用户端，使用 `Vue 3`、`VueRouter`、`Pinia`、`TDesign` 开发，旨在探索购物 + 互动场景下的最佳实践，持续更新中...
 
 ## 开发
 
