@@ -38,6 +38,9 @@
   📃 <a href="https://doc.leapcoda.com/"><b>使用文档</b></a>
 </p>
 
+<br>
+<br>
+
 ## 介绍
 
 Sphere 是一个社区化的电商项目，该仓库是其用户端，使用`Vue 3`、`Vue Router`、`Pinia`、`TDesign`开发，旨在探索购物 + 互动场景下的最佳实践，持续更新中...
