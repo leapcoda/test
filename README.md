@@ -1,11 +1,10 @@
 <p align="right">
+  <a href="https://github.com/leapcoda/sphere"><b>API</b></a>｜
   <b>APP</b>｜
-  <a href="https://github.com/leapcoda/sphere-ops"><b>OPS</b></a>｜
-  <a href="https://github.com/leapcoda/sphere"><b>API</b></a>
+  <a href="https://github.com/leapcoda/sphere-ops"><b>OPS</b></a>
 </p>
 
 <br>
-
 <p align="center">
     <picture>
     <source media="(prefers-color-scheme: light)" srcset="./sphere-dark.png">
@@ -35,7 +34,6 @@
   💻 <a href="https://app.leapcoda.com/"><b>实时预览</b></a>｜
   📃 <a href="https://doc.leapcoda.com/"><b>使用文档</b></a>
 </p>
-
 <br>
 
 ## 介绍
