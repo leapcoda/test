@@ -9,7 +9,7 @@
     <picture>
     <source media="(prefers-color-scheme: light)" srcset="./sphere-dark.png">
     <source media="(prefers-color-scheme: dark)" srcset="./sphere-light.png">
-    <img src="./sphere-dark.png" alt="sphere" width="300">
+    <img src="./sphere-dark.png" alt="sphere" height="100">
   </picture>
 </p>
 
