@@ -1,11 +1,9 @@
-
 <p align="right">
   <b>APP</b>｜
   <a href="https://github.com/leapcoda/sphere-ops"><b>OPS</b></a>｜
   <a href="https://github.com/leapcoda/sphere"><b>API</b></a>
 </p>
 
-<br>
 <br>
 
 <p align="center">
@@ -39,11 +37,10 @@
 </p>
 
 <br>
-<br>
 
 ## 介绍
 
-Sphere 是一个社区化的电商项目，该仓库是其用户端，使用`Vue 3`、`Vue Router`、`Pinia`、`TDesign`开发，旨在探索购物 + 互动场景下的最佳实践，持续更新中...
+Sphere 是一个社区化的电商项目，该仓库是其用户端，使用 `Vue 3`、`Vue Router`、`Pinia`、`TDesign` 开发，旨在探索购物 + 互动场景下的最佳实践，持续更新中...
 
 ## 开发
 
