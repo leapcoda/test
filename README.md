@@ -5,16 +5,15 @@
   <a href="https://github.com/leapcoda/sphere"><b>API</b></a>
 </p>
 
+<br>
+<br>
+
 <p align="center">
-    <br>
-  <br>
     <picture>
     <source media="(prefers-color-scheme: light)" srcset="./sphere-dark.png">
     <source media="(prefers-color-scheme: dark)" srcset="./sphere-light.png">
     <img src="./sphere-dark.png" alt="sphere" height="100">
   </picture>
-    <br>
-  <br>
 </p>
 
 <p align="center">
@@ -41,7 +40,7 @@
 
 ## 介绍
 
-Sphere 是一个社区化的电商项目，该仓库是其用户端，使用 `Vue 3`、`Vue Router`、`Pinia`、`TDesign` 开发，旨在探索购物 + 互动场景下的最佳实践，持续更新中...
+Sphere 是一个社区化的电商项目，该仓库是其用户端，使用`Vue 3`、`Vue Router`、`Pinia`、`TDesign`开发，旨在探索购物 + 互动场景下的最佳实践，持续更新中...
 
 ## 开发
 
