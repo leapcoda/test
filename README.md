@@ -6,11 +6,15 @@
 </p>
 
 <p align="center">
+    <br>
+  <br>
     <picture>
     <source media="(prefers-color-scheme: light)" srcset="./sphere-dark.png">
     <source media="(prefers-color-scheme: dark)" srcset="./sphere-light.png">
     <img src="./sphere-dark.png" alt="sphere" height="100">
   </picture>
+    <br>
+  <br>
 </p>
 
 <p align="center">
