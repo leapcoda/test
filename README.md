@@ -1,7 +1,7 @@
 <p align="right">
-  <a href="https://github.com/leapcoda/sphere"><b><h1>SPHERE</h1></b></a>｜
-  <b>APP</b>｜
-  <a href="https://github.com/leapcoda/sphere-ops"><b>OPS</b></a>
+  <a href="https://github.com/leapcoda/sphere"><b>接口</b></a>｜
+  <b>前台</b>｜
+  <a href="https://github.com/leapcoda/sphere-ops"><b>后台</b></a>
 </p>
 
 <br>
