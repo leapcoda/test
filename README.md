@@ -1,7 +1,7 @@
 <p align="right">
-  <b>app</b>｜
-<a href="https://github.com/leapcoda/sphere"><b>ops</b></a>｜
-  <a href="https://github.com/leapcoda/sphere-ops"><b>api</b></a>
+  <b>用户</b>｜
+<a href="https://github.com/leapcoda/sphere"><b>运营</b></a>｜
+  <a href="https://github.com/leapcoda/sphere-ops"><b>服务</b></a>
 </p>
 
 <br>
