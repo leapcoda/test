@@ -1,7 +1,7 @@
 <p align="right">
-  <a href="https://github.com/leapcoda/sphere"><b>接口</b></a>｜
-  <b>前台</b>｜
-  <a href="https://github.com/leapcoda/sphere-ops"><b>后台</b></a>
+  <b>前台</b>
+<a href="https://github.com/leapcoda/sphere"><b>后台</b></a>｜
+  <a href="https://github.com/leapcoda/sphere-ops"><b>接口</b></a>
 </p>
 
 <br>
