@@ -1,5 +1,5 @@
 <p align="right">
-  <b>前台</b>
+  <b>前台</b>｜
 <a href="https://github.com/leapcoda/sphere"><b>后台</b></a>｜
   <a href="https://github.com/leapcoda/sphere-ops"><b>接口</b></a>
 </p>
